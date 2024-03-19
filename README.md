@@ -1,16 +1,12 @@
 ## Hi there, fellow `<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>`! 👋
 
-Thanks for stopping by!  I'm Megan Sharp, a <b>Senior Software Engineer</b> with over seven years of experience based in the <b>Portland, OR</b> area.
+Thanks for stopping by!  I'm Megan Sharp, a <b>Graphics Engineer</b> based in the <b>Portland, OR</b> area.
 
-🛠️ I got my start working in graphics programming, where I was a major contributor to a cross-platform graphics profiling tool supporting Metal, Vulkan, and DirectX on Windows, Linux, and macOS in an Agile environment.
+🎮 My background is primarily in graphics profiling and mobile game development using C++, Rust, OpenGL ES, Metal, and DirectX, though I've used a smattering of other technologies over the years, such as Python, Java, Objective-C, React, and TypeScript.
 
-🎮 Since then, I've spent a few years working in the mobile gaming industry, where I picked up Rust, Android, and iOS development, delivering key user-facing features impacting millions of active daily users.
+💻 I'm currently focused on building web-based 3D design tools using TypeScript, React, C++, Three.js, and WebGL.  
 
-💻 More recently, I've been working with modern web technologies, building open-source tools in TypeScript, React, Tailwind CSS, and Node.js.</b>
-
-👔 I'm **currently seeking new opportunities** using **Rust**, **TypeScript**, and **React**. I'm also open to doing more **C++** and **Python** if it's the right opportunity.
-
-🧬 I'm particularly passionate about the gaming, biotech, education, and clean tech industries, though working in them is not a must.
+🧬 I'm particularly passionate about the gaming, biotech, education, and clean tech industries.
 
 🏆 My strengths lie in my flexibility and ability to pick up new technologies.  I'm a generalist at heart and love working in all areas of the stack: frontend, backend, and CI/CD.  I love seeing the big picture and how all of the systems fit together in a product.
 
